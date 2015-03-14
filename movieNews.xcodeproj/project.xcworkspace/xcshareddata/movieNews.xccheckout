@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A91BF44B-EC42-46BF-84E6-22EBF35E9EBC</string>
+	<key>IDESourceControlProjectName</key>
+	<string>movieNews</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>026B2EA6B8EBEB391774F908FC60BED699B6DA62</key>
+		<string>https://github.com/nalinnatrajan/iKompassDay7-MovieNews.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>movieNews.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>026B2EA6B8EBEB391774F908FC60BED699B6DA62</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/nalinnatrajan/iKompassDay7-MovieNews.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>026B2EA6B8EBEB391774F908FC60BED699B6DA62</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>026B2EA6B8EBEB391774F908FC60BED699B6DA62</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iKompassDay7-MovieNews</string>
+		</dict>
+	</array>
+</dict>
+</plist>
